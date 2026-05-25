@@ -1,5 +1,7 @@
 # Formula 1 Pit Stop Prediction: Kaggle Playground Series 2026 (S6E5)
 
+https://kaggle.com/competitions/playground-series-s6e5
+
 PyTorch-based deep learning solution for the May 2026 Kaggle Tabular Playground challenge. The goal is to predict whether a Formula 1 driver will pit on the next lap based on race conditions and historical features.
 
 ## Performance Summary
